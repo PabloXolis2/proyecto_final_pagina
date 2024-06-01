@@ -98,6 +98,7 @@ body{
 .navbar {
     display: flex;
     background-color: black;
+    border:  solid  1px black;
 }
 
 .navbar a{
